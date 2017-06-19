@@ -1,3 +1,3 @@
 # nativescript-tutorial
 
-This repo following the NativeScript official tutorial step by step.
+This repo follows the NativeScript official tutorial step by step.
