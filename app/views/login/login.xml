@@ -13,7 +13,8 @@
                    secure="true"
         />
 
-        <Button text="Sign in"
+        <Button class="btn-primary btn"
+                text="Sign in"
                 tap="signIn"
         />
         <Button class="link"

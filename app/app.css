@@ -1,4 +1,5 @@
 @import url('~/platform.css');
+@import url('./app.theme.css');
 
 Page {
     background-color: white;
